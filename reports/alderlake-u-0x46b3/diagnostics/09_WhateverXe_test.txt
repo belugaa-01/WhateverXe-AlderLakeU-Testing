@@ -1,0 +1,2 @@
+Timestamp                       Thread     Type        Activity             PID    TTL  
+2026-10-30 19:36:31.610630+0530 0x6a9      Default     0x0                  0      0    kernel: (AppleIntelTGLCompat) AppleIntelTGLCompat: revision 0.5.0 started, physical-owner/binding selection

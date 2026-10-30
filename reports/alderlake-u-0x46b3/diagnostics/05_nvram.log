@@ -1,0 +1,7 @@
+bluetoothInternalControllerInfo	%00%00%00%00%00%00%00%00%00%00%00%00%00%00
+SystemAudioVolume	F
+bluetoothExternalDongleFailed	%00
+run-efi-updater	No%00
+csr-active-config	%03%08%00%00
+boot-args	-v debug=0x100 keepsyms=1 -vi2c-force-polling revpatch=sbvmm -allow3d -disablegfxfirmware -igfxdvmt -wexdbg -liludbgall
+ForceDisplayRotationInEFI	%00%00%00%00

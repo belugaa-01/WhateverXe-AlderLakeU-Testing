@@ -1,0 +1,36 @@
+Graphics/Displays:
+
+    Intel UHD Graphics:
+
+      Chipset Model: Intel UHD Graphics
+      Type: GPU
+      Bus: Built-In
+      VRAM (Total): 7 MB
+      VRAM (Dynamic, Max): 
+      Vendor: Intel
+      Device ID: 0x46b3
+      Revision ID: 0x000c
+      Kernel Extension Info: No Kext Loaded
+      Displays:
+        Display:
+          Resolution: 1920 x 1080 (1080p FHD - Full High Definition)
+          UI Looks like: 1920 x 1080
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 26.7.2 (25G332)
+      Kernel Version: Darwin 25.6.0
+      Boot Volume: Macintosh
+      Boot Mode: Normal
+      Computer Name: Loki’s MacBook Pro
+      User Name: Loki (loki)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Disabled
+      Time since boot: 14 minutes, 24 seconds
+
