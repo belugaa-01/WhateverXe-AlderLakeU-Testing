@@ -96,13 +96,15 @@ ATTACHED DIAGNOSTICS (Directory: AlderLake-U-WhateverXe\_Logs):
 
 10\. opencore-bootlogs.txt — OpenCore boot log confirming kext injection
 
---------------------------------------------------
+\--------------------------------------------------
 
 ### NEXT STEPS / ASSISTANCE:
 
 Would you consider integrating support or guidance for binding this specific mobile variant (0x46B3)? 
 
 I remain fully available to test alternative builds, apply custom patches, or pull any extra telemetry logs you might require. Hopefully, these logs and diagnostics prove helpful for advancing the implementation and driver bring-up for this specific mobile GPU variant. Thank you again for your time, dedication, and amazing work on this project!
+
+\--------------------------------------------------
 
 ### Help & Contributions:
 
@@ -116,7 +118,7 @@ If you're a user with similar Alder Lake-U hardware, your testing results and ex
 
 Whether you can help with debugging, testing, identifying potential issues, or simply sharing relevant information, feel free to reach out.
 
-## Contact:
+Contact:
 
 Reddit: https://www.reddit.com/user/Belugaa_01/
 
