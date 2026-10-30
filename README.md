@@ -8,7 +8,7 @@ This repository documents my attempts to get WhateverXe working on Intel Alder L
 
 | Component             | Specification       |
 | :-------------------- | :------------------ |
-| **Laptop**            | HP 15s series       |
+| **Laptop**            | HP 15s-FQ5326TU       |
 | **Processor**         | Intel Core i3-1215U |
 | **Integrated GPU**    | Intel UHD Graphics  |
 | **Execution Units**   | 64 EU               |
