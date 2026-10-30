@@ -40,7 +40,7 @@ HARDWARE \& ENVIRONMENT:
 
 
 
-\- Laptop Model: HP 15s-fq5325tu (Nothing Replaced)
+\- Laptop Model: HP 15s-fq5326tu (Nothing Replaced)
 
 
 
