@@ -66,16 +66,18 @@ kernel: (AppleIntelTGLCompat) AppleIntelTGLCompat : revision 0.5.0 started, phys
 
 **Directory:** `AlderLake-U-WhateverXe_Logs`
 
-1. `01_kernel_graphics.log` — Complete kernel log from initial test runs.
-2. `02_system_profiler.log` — Initial display state export.
-3. `03_ioreg_dump.log` — Initial iGPU PCI topology capture.
-4. `04_kextstat.log` — Initial loaded kext verification.
-5. `05_nvram.log` — Active boot arguments and environment variables.
-6. `06_Display_Hardware_Profile.txt` — Refined system profiler export verifying hardware IDs.
-7. `07_IOReg_Graphics.txt` — Full device tree capture mapping out active display controller nodes.
-8. `08_PCI_Bus_Tree.txt` — Complete system PCI bus topology.
-9. `09_WhateverXe_test.txt` — Targeted kernel log showing the initialization and binding halt point.
-10. `opencore-bootlogs.txt` — OpenCore boot log confirming kext injection.
+All diagnostic files are available below. Click any filename to view its contents.
+
+1. [01_kernel_graphics.log](diagnostics/01_kernel_graphics.log) — Complete kernel log from initial test runs.
+2. [02_system_profiler.log](diagnostics/02_system_profiler.log) — Initial display state export.
+3. [03_ioreg_dump.log](diagnostics/03_ioreg_dump.log) — Initial iGPU PCI topology capture.
+4. [04_kextstat.log](diagnostics/04_kextstat.log) — Initial loaded kext verification.
+5. [05_nvram.log](diagnostics/05_nvram.log) — Active boot arguments and environment variables.
+6. [06_Display_Hardware_Profile.txt](diagnostics/06_Display_Hardware_Profile.txt) — Refined system profiler export verifying hardware IDs.
+7. [07_IOReg_Graphics.txt](diagnostics/07_IOReg_Graphics.txt) — Full device tree capture mapping out active display controller nodes.
+8. [08_PCI_Bus_Tree.txt](diagnostics/08_PCI_Bus_Tree.txt) — Complete system PCI bus topology.
+9. [09_WhateverXe_test.txt](diagnostics/09_WhateverXe_test.txt) — Targeted kernel log showing the initialization and binding halt point.
+10. [opencore-bootlogs.txt](diagnostics/opencore-bootlogs.txt) — OpenCore boot log confirming kext injection.
 
 ---
 
