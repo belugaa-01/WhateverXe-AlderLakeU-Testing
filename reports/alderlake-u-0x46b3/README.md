@@ -1,6 +1,6 @@
 \--------------------------------------------------
 
-TITLE:
+## TITLE: 
 
 \[Bring-up / Bug] Alder Lake-U (0x46B3) - HP 15s fq5326tu halts at physical-owner/binding selection
 
@@ -63,10 +63,10 @@ kernel: (AppleIntelTGLCompat) AppleIntelTGLCompat : revision 0.5.0 started, phys
 
 | Expected Behaviour                             | Actual Behaviour              |
 | :--------------------------------------------- | :---------------------------- |
-| iGPU successfully binds to the graphics driver | Hardware binding not observed |
-| Hardware acceleration initializes successfully | No hardware acceleration      |
-| Metal support becomes available                | Metal unavailable             |
-| Proper graphics memory is reported             | 7 MB VRAM reported            |
+| iGPU successfully binds to the graphics driver | ❌ Hardware binding not observed |
+| Hardware acceleration initializes successfully | ❌ No hardware acceleration      |
+| Metal support becomes available                | ❌ Metal unavailable             |
+| Proper graphics memory is reported             | ✅ 7 MB VRAM reported            |
 
 ### Relevant Kernel Log
 
