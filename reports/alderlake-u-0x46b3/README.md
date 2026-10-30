@@ -116,7 +116,7 @@ If you're a user with similar Alder Lake-U hardware, your testing results and ex
 
 Whether you can help with debugging, testing, identifying potential issues, or simply sharing relevant information, feel free to reach out.
 
-Contact:
+## Contact:
 
 Reddit: https://www.reddit.com/user/Belugaa_01/
 
