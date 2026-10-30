@@ -72,7 +72,7 @@ kernel: (AppleIntelTGLCompat) AppleIntelTGLCompat : revision 0.5.0 started, phys
 
 kernel: (AppleIntelTGLCompat) AppleIntelTGLCompat : revision 0.5.0 started, physical-owner/binding selection
 
---------------------------------------------------
+\--------------------------------------------------
 
 ATTACHED DIAGNOSTICS (Directory: AlderLake-U-WhateverXe\_Logs):
 
@@ -105,7 +105,6 @@ Would you consider integrating support or guidance for binding this specific mob
 I remain fully available to test alternative builds, apply custom patches, or pull any extra telemetry logs you might require. Hopefully, these logs and diagnostics prove helpful for advancing the implementation and driver bring-up for this specific mobile GPU variant. Thank you again for your time, dedication, and amazing work on this project!
 
 \--------------------------------------------------
-
 ### Help & Contributions:
 
 I'm actively testing WhateverXe on Intel Alder Lake-U hardware (i3-1215U, GPU Device ID 0x46B3).
