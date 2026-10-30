@@ -57,7 +57,9 @@ OpenCore logs, kmutil showloaded, and system diagnostics confirm that both org.b
 
 The targeted kernel log explicitly halts at the hardware handshake without throwing an error or panic:
 
-kernel: (AppleIntelTGLCompat) AppleIntelTGLCompat : revision 0.5.0 started, physical-owner/binding selection```
+kernel: (AppleIntelTGLCompat) AppleIntelTGLCompat : revision 0.5.0 started, physical-owner/binding selection
+
+\--------------------------------------------------
 
 ### Expected vs. Actual Behaviour
 
@@ -96,7 +98,9 @@ ATTACHED DIAGNOSTICS (Directory: AlderLake-U-WhateverXe\_Logs):
 
 10\. opencore-bootlogs.txt — OpenCore boot log confirming kext injection
 
+
 \--------------------------------------------------
+
 
 ### NEXT STEPS / ASSISTANCE:
 
@@ -104,7 +108,9 @@ Would you consider integrating support or guidance for binding this specific mob
 
 I remain fully available to test alternative builds, apply custom patches, or pull any extra telemetry logs you might require. Hopefully, these logs and diagnostics prove helpful for advancing the implementation and driver bring-up for this specific mobile GPU variant. Thank you again for your time, dedication, and amazing work on this project!
 
+
 \--------------------------------------------------
+
 ### Help & Contributions:
 
 I'm actively testing WhateverXe on Intel Alder Lake-U hardware (i3-1215U, GPU Device ID 0x46B3).
@@ -126,3 +132,4 @@ Telegram: https://t.me/MultiVerse42
 I'm open to collaborating and testing experimental builds or potential fixes.
 
 Any help is appreciated. Thank you!
+\--------------------------------------------------
