@@ -71,7 +71,6 @@ Users with similar hardware are also welcome to share their experiences and test
 **Contact:**
 
 * **Reddit:** [u/Belugaa_01](https://www.reddit.com/user/Belugaa_01/)
-* **Telegram:** [MultiVerse42](https://t.me/MultiVerse42)
 
 I'm open to collaborating, comparing diagnostic results and testing potential fixes.
 
