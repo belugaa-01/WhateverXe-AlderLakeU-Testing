@@ -108,7 +108,6 @@ Whether you can help with debugging, testing, identifying potential issues, or s
 ### Contact
 
 * **Reddit:** [u/Belugaa_01](https://www.reddit.com/user/Belugaa_01/)
-* **Telegram:** [MultiVerse42](https://t.me/MultiVerse42)
 
 I'm open to collaborating and testing experimental builds or potential fixes.
 
